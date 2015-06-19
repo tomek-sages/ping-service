@@ -12,6 +12,6 @@ public class SystemRestService
 	@Produces(MediaType.APPLICATION_JSON)
 	public Response ping()
 	{
-		return Response.ok().build();
+		return Response.ok("OK!").build();
 	}
 }
