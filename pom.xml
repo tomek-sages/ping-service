@@ -6,7 +6,7 @@
     <artifactId>ping-service</artifactId>
     <version>1.1.0</version>
     <name>Ping Service</name>
-    <description>Ping service - important</description>
+    <description>Ping service</description>
     <packaging>war</packaging>
 
     <developers>
